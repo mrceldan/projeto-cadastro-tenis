@@ -1,4 +1,4 @@
-# Projeto ADO 1 - MDS Tennis ProShop
+# Projeto ADO 1 (Estrutura de dados) - MDS Tennis ProShop
 
 Este projeto foi desenvolvido como atividade do primeiro ADO da disciplina de Programação Orientada a Objetos, aplicando conceitos das aulas 02 e 03 sobre arrays e manipulação de dados.
 
